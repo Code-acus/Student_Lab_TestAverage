@@ -1,0 +1,11 @@
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\bin\Debug\Test Average.exe
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\bin\Debug\Test Average.pdb
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.csproj.SuggestedBindingRedirects.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test_Average.testAverage.resources
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test_Average.Properties.Resources.resources
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.exe
+C:\Users\hrogers.HFR\VisualStudioProjects\C#.NET\Student_Lab_TestAverage\Test Average\obj\Debug\Test Average.pdb
